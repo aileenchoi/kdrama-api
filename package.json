@@ -1,0 +1,14 @@
+{
+  "name": "kdrama-api",
+  "version": "1.0.0",
+  "description": "An api for korean dramas, the best kind of tv shows out there.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aileen Choi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
